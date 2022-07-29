@@ -1,0 +1,3 @@
+package golangSoru4_test
+
+// Soru 7: Bankamatik Struct'ının Testlerini geliştiriniz...

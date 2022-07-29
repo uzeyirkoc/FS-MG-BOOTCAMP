@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/*
+    kutu class'ı için 
+    - 200*200 boyutlarında olacak şekilde ayarlayınız. İlgili kutuya isteğiniz bir renk özelliği ekleyiniz.
+    - Kutu elementi ekranın dikey ve yatay olarak tam ortasında bulunacak şekilde ayarlayınız. (Bu işlemi css'in "flex" özelliğini kullanarak gerçekleştiriniz.)
+    - Kutu elementinin üzerine fare ile gelince rengi değişecek şekilde ayarlayınız. 
+    - Ekran genişliği 750px altına düştüğünde kutunun genişliği ekranın genişliği kadar olacak şekilde ayarlayınız.
+    - Ekran genişliği tekrar 750px üsünde olunca eski halini alacak şekilde ayarlayınız.
+*/
+/*
+    Not: Bu değişimlerde geçiş animasyonları kullanınız. (ipucu: "transition")
+    
+    Opsiyon : İstenilen geliştirmeleri "https://codepen.io/pen/" adresinde gerçekleştirip, bu kısma yorum satırı olarak link bırakabilirsiniz.
+*/
